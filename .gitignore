@@ -47,6 +47,7 @@
 *.swo
 *.plist
 *.pyc
+*.json
 
 # ignore all variations of .dSYM files
 .DS_Store

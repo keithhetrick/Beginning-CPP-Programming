@@ -18,6 +18,7 @@ void employee_profile()
 {
 
   //----WRITE YOUR CODE BELOW THIS LINE----
+
   int age;
   double hourly_wage = 23.50;
   string name;

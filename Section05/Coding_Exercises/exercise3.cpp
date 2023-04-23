@@ -1,6 +1,6 @@
 /**************************************************
  *
- * Coding Exercise #3
+ * Coding Exercise - Section 5 #3
  *
  * In this exercise, you will write code to allow a user to enter their date of birth.
  *

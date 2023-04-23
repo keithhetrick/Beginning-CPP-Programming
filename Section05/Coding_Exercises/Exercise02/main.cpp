@@ -1,6 +1,6 @@
 /**************************************************
  *
- * Coding Exercise - Section 5 #2
+ * Coding Exercise - Exercise 2
  *
  * In this exercise, you will write a statement to display how many dogs Sally has.
  *

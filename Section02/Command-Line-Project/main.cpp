@@ -2,6 +2,6 @@
 
 int main()
 {
-  std::cout << "Hello from the Mac command-line world!" << std::endl;
+  std::cout << "Hello to the world of C++ Programming!" << std::endl;
   return 0;
 }

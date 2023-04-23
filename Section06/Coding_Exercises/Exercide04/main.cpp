@@ -1,6 +1,6 @@
 /**************************************************
  *
- * Coding Exercise #4
+ * Coding Exercise - Exercise 4
  *
  * In this exercise you will write code that creates a profile for a new employee at a company.
  *

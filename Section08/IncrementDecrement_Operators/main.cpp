@@ -12,6 +12,7 @@
  *
  * Don't overuse this operator
  * ALERT: Don't use this operator more than once in the same statement
+ *
  */
 
 #include <iostream>
